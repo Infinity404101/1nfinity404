@@ -3,16 +3,20 @@ This is a profile
 I am a Game Developer, who currently studying in uni
 - 🌱 I’m currently learning Game Development
 - 👯 I’m looking to collaborate on creating games (maybe)
+
 ## 📫 Contact Info
 - Discord: 1nfinity404
 - itch.io: [Infinity404](https://infinity404.itch.io)
 ## 💼 Projects
-# hello
+Visual Basic Developer (2022-2024)
+- [Survive The Pit]() - A game project for my A level Computer Science Exam
+
 ## 🛠️ Programming Language, Frameworks and Tools
 - Visual Basic - [Visual Studio 2022](https://visualstudio.microsoft.com)
 - Python - [PyCharm](https://www.jetbrains.com/pycharm/)
 - HTML - [Bootstraps](https://getbootstrap.com), [Flask](https://flask.palletsprojects.com/en/stable/)(know a bit)
 - C++ - [Unreal Engine](https://www.unrealengine.com/en-US) (learning, trying to get a PC)
+
 ## 🎯 Goals for Future
 
 <!--
