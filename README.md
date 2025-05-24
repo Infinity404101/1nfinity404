@@ -7,7 +7,7 @@ I am a Game Developer, who currently studying in uni
 - Discord: 1nfinity404
 - itch.io: [Infinity404](https://infinity404.itch.io)
 ## 💼 Projects
-
+# hello
 ## 🛠️ Programming Language, Frameworks and Tools
 - Visual Basic - [Visual Studio 2022](https://visualstudio.microsoft.com)
 - Python - [PyCharm](https://www.jetbrains.com/pycharm/)
