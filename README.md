@@ -1,12 +1,17 @@
 This is a profile
 ## About Me👋
 I am a Game Developer, who currently studying in uni
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Game Development
+- 👯 I’m looking to collaborate on creating games (maybe)
+## 📫Contact Info
+- Discord: 1nfinity404
 ## 🛠️ Programming Language, Frameworks and Tools
 - Visual Basic - [Visual Studio 2022](https://visualstudio.microsoft.com)
 - Python - [PyCharm](https://www.jetbrains.com/pycharm/)
 - HTML - [Bootstraps](https://getbootstrap.com), [Flask](https://flask.palletsprojects.com/en/stable/)(know a bit)
-- C++ - [Unreal Engine](https://www.unrealengine.com/en-US) (learning) 
+- C++ - [Unreal Engine](https://www.unrealengine.com/en-US) (learning, trying to get a PC)
+
+
 <!--
 **1nfinity404/1nfinity404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
