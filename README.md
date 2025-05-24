@@ -1,12 +1,12 @@
-## Hi there 👋
-## About Me
+This is a profile
+## About Me👋
 I am a Game Developer, who currently studying in uni
 - 🌱 I’m currently learning Python and C++
 ## 🛠️ Language and Tools
 - Visual Basic - Visual Studio 2022
-- Python
+- Python - PyCharm
 - HTML
-- C++ - Unreal Engine https://www.unrealengine.com/en-US (learning) 
+- C++ - [Unreal Engine](https://www.unrealengine.com/en-US) (learning) 
 <!--
 **1nfinity404/1nfinity404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
