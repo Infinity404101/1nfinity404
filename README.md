@@ -18,6 +18,8 @@ I am a Game Developer, who currently studying in uni
 - C++ - [Unreal Engine](https://www.unrealengine.com/en-US) (learning, trying to get a PC)
 
 ## 🎯 Goals for Future
+- Able to code GDScript - [Godot](https://godotengine.org)
+- Able to create a Visual Novel - [Ren'Py](https://www.renpy.org)
 
 <!--
 **1nfinity404/1nfinity404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
