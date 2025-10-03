@@ -6,7 +6,7 @@ I am a Game Developer, who currently studying in uni
 
 ## 📫 Contact Info
 - Discord: 1nfinity404
-- itch.io: [Infinity404](https://infinity404.itch.io)
+- itch.io: [Infinity404](https://infinity404101.itch.io)
 ## 💼 Projects
 **Visual Basic Developer (2022-2024)**
 - [Survive The Pit](https://github.com/1nfinity404/Project---Survive-The-Pit) - A game project for my A level Computer Science Exam
